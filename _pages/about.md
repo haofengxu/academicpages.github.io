@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Doctoral researcher in Finance at Swansea University. Prior to that, I worked as a Lecturer and Tutor in International College, University of Sheffield.
 
-My research interests are Financial Innovation, Behavioral Finance, Corporate Finance, Quantitative Text Analysis, Empirical Finance, Emerging Market Economies.
+My research interests are Financial Innovation, Behavioral Finance, Corporate Finance, Quantitative Text Analysis, Emerging Market Economies.
 
 A data-driven personal website
 ======
